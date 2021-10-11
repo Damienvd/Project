@@ -1,0 +1,7 @@
+za\ac\nwu\domain\dto\service\GeneralResponse.class
+za\ac\nwu\domain\dto\VoucherDto.class
+za\ac\nwu\domain\dto\persistance\Voucher.class
+za\ac\nwu\domain\dto\MemberVoucherDto.class
+za\ac\nwu\domain\dto\persistance\MemberVoucher.class
+za\ac\nwu\domain\dto\MemberDto.class
+za\ac\nwu\domain\dto\persistance\Member.class
